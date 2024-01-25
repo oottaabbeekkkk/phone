@@ -1,0 +1,175 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.nn{
+    text-align: center;
+    color: red;
+    font-size: 10px;
+}
+/* .n{
+    text-align: center;
+    color: white;
+} */
+.jhhj{
+    width: 3px;
+    height: 5px;
+    border-radius: 55%;
+    text-align: center;
+}
+.lll:hover{
+    color: red;
+}
+.dln{
+    margin-left: 20px;
+    margin-right: 10px;
+    color: red;
+}
+.ttt{
+    background-color: rgba(0, 0, 0, 0.74);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 5px;
+
+}
+.asad{
+    background-color: black;
+
+    width: 100px;
+    margin-bottom: 10px;
+
+    border-radius: 10px;
+    height: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    text-align: center;
+}
+.all{
+    border: 10px solid black;
+    border-radius: 40px;
+    margin: auto;
+    background-color:aqua;
+
+}
+.box1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: yellow;
+}
+.box2{
+    padding: 10px;
+    width: 100%;
+    border: 2px solid black;
+    overflow: auto;
+    height:  400px;
+}
+.box3{
+    width: 100%;
+    border: 2px solid black;
+}
+.boshqa{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: rgba(128, 128, 128, 0.767);
+    align-items: center;
+    border-radius: 10px;
+    border: none;
+    color: white;
+}
+.btn1:hover{
+    color: red;
+    background-color: black;
+}
+.spn{
+    padding: 8px;
+    background-color: rgba(128, 128, 128, 0.726);
+    border-radius: 10px;
+    align-items: center;
+}
+.spn:hover{
+    color: red;
+    background-color: black;
+}
+.all{
+    overflow: auto; 
+    overflow: hidden;
+    width: 25%;
+    border: 5px solid black;
+}
+.ppp{
+    width: 50%;
+}
+.pic1{
+    background-size: cover;
+    width: 50%;
+    background-repeat: no-repeat;
+}
+.pp{
+    overflow: auto; 
+    overflow: hidden;
+}
+.p2{
+    margin-top: 5px;
+}
+.btn5{
+    width: 24%;
+    padding: 5px ;
+    background-color: yellow;
+}
+.btn5:hover{
+    background-color: black;
+    color: red;
+}
+.bbb{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+.ntb{
+    width: 70px;
+    height: 25px;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin: auto;
+}
+.ntbv{
+    width: 70px;
+    height: 15px;
+    border-radius: 10px;
+    display: flex;
+    border: none;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: flex-end;
+    background-color: black;
+    margin: auto;
+}
+.bbb{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.lll{
+
+    color: white;
+}
+.ddd{
+    background-image: linear-gradient( 45deg, blue,lime );
+}
